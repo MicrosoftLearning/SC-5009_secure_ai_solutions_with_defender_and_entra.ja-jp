@@ -1,0 +1,1 @@
+# SC-5009_secure_ai_solutions_with_defender_and_entra.ja-jp
